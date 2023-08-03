@@ -1,0 +1,33 @@
+.navtop{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.nav-item-padding{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.shop-img{
+  height: 160px;
+  width: 285px;
+  position: relative;
+  background: #eef0f5;
+}
+
+.shop-padding{
+  padding: 50px;
+  padding-left: 65px;
+  padding-right: 0px;
+}
+
+.view-menu{
+  width:254px;
+}
+
+.dropdown-size{
+  padding-left: 50px;
+  padding-right: 50px;
+}
