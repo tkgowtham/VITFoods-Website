@@ -1,0 +1,79 @@
+.top{
+  padding: 3% 10%;
+  background-color: #171a29;
+  color: #fff;
+}
+
+.navtop{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.nav-item-padding{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.dropdown-size{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.shop-img{
+  height: 160px;
+  width: 254px;
+  background: #eef0f5;
+}
+
+#header-part h5{
+  padding-top: 10px;
+}
+
+#header-part .name-side{
+  padding-right: 20%;
+}
+
+#header-part h6{
+  padding-top: 10px;
+}
+
+#menu .card{
+  padding-left: 250px;
+  padding-right: 400px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#menu .add-to-cart{
+  padding-left: 350px;
+}
+
+#menu{
+  padding: 7% 15%;
+  padding-top: 15px;
+}
+
+.menu-heading{
+  padding-left: 15rem;
+  padding-top: 3rem;
+}
+
+.checkout-down{
+  position: fixed;
+  bottom: 0;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-bottom: 10px;
+}
+
+#checkout .card{
+  position: fixed;
+  bottom: 0;
+  margin-left: 1300px;
+  margin-right: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 100px;
+}
