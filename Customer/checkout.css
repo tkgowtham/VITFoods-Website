@@ -1,0 +1,21 @@
+.navtop{
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.nav-item-padding{
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.btn-outline-success{
+  margin-top: 5px;
+  margin-left: 2.5px;
+}
+
+.dropdown-size{
+  padding-left: 50px;
+  padding-right: 50px;
+}
