@@ -1,0 +1,18 @@
+.radiosec{
+  padding-bottom: 30px;
+}
+
+.navbar{
+  padding: 30px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.add-padding-to-nav{
+  padding-top: 8px;
+}
+
+.nav-item{
+  padding-left: 10px;
+  padding-right: 10px;
+}
